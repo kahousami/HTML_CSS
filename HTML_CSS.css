@@ -65,6 +65,7 @@ main{
 	.box {
 		float: none;
 		margin-bottom: 20px;
+		width: 100%;
 	}
 	.box:last-child {
 		margin-bottom: 0;
